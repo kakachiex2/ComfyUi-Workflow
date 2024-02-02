@@ -8,5 +8,7 @@ Olivio channel :: https://www.youtube.com/@OlivioSarikas
 Davos_AnimateDiff_CNet_Raw_V2_LCM_WF_V2.02 Updated by me Kakachiex 
 ![Davos_Kakachiex_AnimateDiff_CNet_Raw_V2_LCM_WF_V2 02](https://github.com/kakachiex2/ComfyUi-Workflow/assets/1762112/0204080d-ce6d-4c9b-98cc-d7e38c0afd87)
 ![Screenshot 2024-02-02 183456](https://github.com/kakachiex2/ComfyUi-Workflow/assets/1762112/10f0d183-ca53-4958-b348-979d36920042)
+![AnimateDiff_00055](https://github.com/kakachiex2/ComfyUi-Workflow/assets/1762112/221c5659-cf41-499b-8526-6e4cc5559c76)
+
 
 
